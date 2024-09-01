@@ -1,1 +1,1 @@
-This repo has 6 commits.
+This repo has 1 commits.
